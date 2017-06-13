@@ -11,8 +11,6 @@ import java.util.TimerTask;
 
 public class Logger extends TimerTask {
 
-//    private Timer
-
     private long count = 0;
 
     public Logger() {
